@@ -5,6 +5,8 @@
 ```shell
 # 登录MySQL
 $ mysql -u root -p12345612
+#不希望别人看见
+$ mysql -u root -p
 
 # 退出MySQL数据库服务器
 exit;
